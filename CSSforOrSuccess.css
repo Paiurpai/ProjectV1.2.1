@@ -1,0 +1,59 @@
+.card{
+    width: 400px;
+    height: 490px;
+    background-color: #fdda8f;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.check-icon{
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 50%;
+    
+}
+.check-icon-container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card h2,h5{
+    text-align: center;
+    padding: 10px;
+}
+.card h4{
+    text-align: center;
+    font-weight: 400;
+    padding: 10px;
+
+}
+.go-back a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 330px;
+    height: 35px;
+    background-color: #9c5326;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;  
+}
+.go-back{
+    margin-top: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+    
